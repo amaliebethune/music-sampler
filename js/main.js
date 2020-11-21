@@ -29,8 +29,8 @@ covers.forEach(function(el) {
       .style.display = 'block';
       break;
 
-      case 'give':
-      document.querySelector('#alone')
+      case 'gimme':
+      document.querySelector('#give')
       .style.display = 'block';
 
 
